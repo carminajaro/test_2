@@ -1,0 +1,3 @@
+My name is Carmina Jaro and I am from Spain, Barcelona.
+My background is Computer Linguistics. 
+I know some Python and I have intensively worked in the past with Regular Expressions.
